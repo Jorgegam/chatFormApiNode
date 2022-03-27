@@ -9,8 +9,9 @@ DB_PORT
 npm init -y
 npm run dev: in development environment
 
-# BACKEND
-Backend
+# DEMO LIVE
+[https://chatformapi.herokuapp.com/](https://chatformapi.herokuapp.com/)
 
-# DEMO
-Demo
+# ROUTES
+GET ('api/users'): GET ALL USERS
+POST ('api/users'): INSERT SINGLE USER
